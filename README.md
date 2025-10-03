@@ -22,6 +22,6 @@ This repository contains my SQL projects. Each project includes queries, objecti
 ### 2. Zomato Sales Analysis
 - **Objective:** Study restaurant orders, revenue trends, and customer behavior  
 - **Tools:** PostgreSQL/MySQL  
-- **Skills:** Window Functions, CTEs, Subqueries  
+- **Skills:** Joins, Aggregations, Group By, Order By, Limit  
 - **Queries Included:** [Zomato.sql](./Zomato_Sales_Analysis/Zomato.sql)
 

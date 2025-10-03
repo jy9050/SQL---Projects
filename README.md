@@ -1,33 +1,26 @@
-# SQL Projects 🚀
+# Employee Health Analysis (SQL Project)
 
-This repository contains my SQL projects and practice exercises.  
-I have used PostgreSQL and MySQL to solve real-world business problems.  
+## 📌 About
+This project demonstrates SQL queries for Employee and Health data analysis:
+- Employee and Health tables creation
+- Insert sample data
+- Analysis using JOIN, WHERE, and Aggregations
 
----
+## 🛠️ Tools
+- SQL (PostgreSQL/MySQL/SQLite)
 
-## 📂 Projects
+## 📊 Queries Included
+- Employee + Health details
+- Employees with medical conditions
+- BMI calculation
+- Department-wise averages
 
-### 1. Employee Health Analysis
-- Objective: Analyze employee absenteeism and health patterns.  
-- Skills: Joins, Aggregations, Group By.  
-- File: `Employee_Health_Analysis/queries.sql`
+## 🚀 How to Use
+1. Run `employees_table.sql` to create and insert employee data.
+2. Run `health_table.sql` to create and insert health data.
+3. Run `health_analysis_queries.sql` to perform analysis.
 
-### 2. Zomato Sales Analysis
-- Objective: Study restaurant orders, revenue trends, and customer behavior.  
-- Skills: Window Functions, CTEs, Subqueries.  
-- File: `Zomato_Sales/zomato.sql`
+## 🔗 Connect with Me
+If you like this project, connect with me on [LinkedIn](https://www.linkedin.com/in/jyoti-kashyap-58a32336b
 
-### 3. SQL Practice
-- Collection of solved SQL queries from LeetCode/StrataScratch.  
-- Skills: Ranking, Deduplication, Time Bucketing.  
-- File: `Practice/leetcode_solutions.sql`
-
----
-
-## ⚙️ Skills Demonstrated
-- Joins & Aggregations  
-- Subqueries & CTEs  
-- Window Functions  
-- Data Cleaning Queries  
-
----
+).

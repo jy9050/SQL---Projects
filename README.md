@@ -15,6 +15,6 @@ This repository contains my SQL projects. Each project includes queries, objecti
   - Employees with medical conditions  
   - BMI calculation  
   - Department-wise averages  
-- **Folder:** [Employee_Health_Analysis](./Employee_Health_Analysis)
+- **Folder:** [Employee_Health_Analysis](./Employee_Health_Analysis/Health.sql)
 
 ---

@@ -16,6 +16,20 @@ This repository contains my SQL projects. Each project includes queries, objecti
   - BMI calculation  
   - Department-wise averages  
 - **Folder:** [Employee_Health_Analysis](./Employee_Health_Analysis/Health.sql)
+## 🚀 How to Use
+1. Run `employees_table.sql` to create and insert employee data.
+2. Run `health_table.sql` to create and insert health data.
+3. Run `health_analysis_queries.sql` to perform analysis.
+
+## 🔗 Connect with Me
+If you like this project, connect with me on [LinkedIn](https://www.linkedin.com/in/jyoti-kashyap-58a32336b
+
+).
+
+
+
+
+
 
 ---
 

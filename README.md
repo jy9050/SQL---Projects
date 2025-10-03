@@ -27,10 +27,6 @@ If you like this project, connect with me on [LinkedIn](https://www.linkedin.com
 ).
 
 
-
-
-
-
 ---
 
 ### 2. Zomato Sales Analysis
@@ -38,4 +34,12 @@ If you like this project, connect with me on [LinkedIn](https://www.linkedin.com
 - **Tools:** PostgreSQL/MySQL  
 - **Skills:** Joins, Aggregations, Group By, Order By, Limit  
 - **Queries Included:** [Zomato.sql](./Zomato_Sales_Analysis/Zomato.sql)
+
+## 🔗 Connect with Me
+If you like this project, connect with me on [LinkedIn](https://www.linkedin.com/in/jyoti-kashyap-58a32336b
+
+).
+
+
+
 
